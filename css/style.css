@@ -242,7 +242,7 @@ body {
 
 /* SECCION 2 */
 /* formulario de contacto */
-.body {
+.body-contacto {
   background: url("../../recursos/img/fondo contacto.jpg");
   -webkit-background-size: cover;
   background-size: cover;
@@ -365,7 +365,7 @@ button:hover {
   border: 2px solid #9c27b0; }
 
 .body {
-  background: url(../../recursos/img/fondo-armatupc.jpg);
+  background: url("../../recursos/img/armado de pc 3.jpg");
   -webkit-background-size: cover;
   background-size: cover;
   background-attachment: fixed; }
