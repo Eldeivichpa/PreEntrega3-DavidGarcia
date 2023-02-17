@@ -2,10 +2,10 @@
 @import './utilidades/colors';
 @import './utilidades/typo';
 /*reset*/
-@import './utilidades/reset';
+@import './utilidades/reset.scss';
 
 /*secciones*/
 @import './secciones/header';
-@import './secciones/main-index';
 @import './secciones/footer';
-
+@import './secciones/main-index';
+@import './secciones/body.scss'
