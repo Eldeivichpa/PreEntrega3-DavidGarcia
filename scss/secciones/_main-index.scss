@@ -1,0 +1,103 @@
+/*index-html*/
+
+.subtitulo {
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(155, 154, 154);
+}
+
+.sau{
+    padding: 30px;
+    background: #1f1d1d;
+}
+
+.box-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.box-container .box {
+    height:  11rem;
+    width: 17rem;
+    background: #101010;
+    text-align: center;
+    border-radius: 1rem;
+    
+    margin: 2rem;
+}
+
+.box-container .box i{
+    height: 3rem;
+    width: 3rem;
+    line-height: 3rem;
+    text-align: center;
+    border-radius: 50%;
+    color: white;
+    background: #9c27b0;
+    font-size: 2rem;
+    margin: 1rem 0;
+}
+
+.box-container .box p{
+    font-size: 16px;
+    padding: 0 15px;
+}
+
+/* seccion 4 - productos */
+
+.subtitulo-armada{
+    margin-right: 1600px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(155, 154, 154);
+}
+
+.bax{
+    background-color: #1f1d1d;
+}
+
+.flex-corl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.flex-corl a img{
+    display: flex;
+    height: 600px;
+    padding: 100px;
+    margin-top: auto;
+}
+
+.flex-rune{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.flex-rune a img{
+    display: flex;
+    height: 350px;
+    padding: 100px;
+    margin-top: 100px;
+}
+
+.compo{
+    margin-top: 200px;
+    margin-right: 1600px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(155, 154, 154);
+}

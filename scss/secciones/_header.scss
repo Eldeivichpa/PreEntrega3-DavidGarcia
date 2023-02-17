@@ -1,0 +1,52 @@
+/* INDEX-HTML*/
+
+.header {
+    background: url("../recursos/img/fondo1.jpg") no-repeat center;
+    background-size: cover;
+    height: 60vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.titulo {
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(190, 188, 188);
+}
+p {
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: white;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid #9c27b0;
+    color: white;
+    text-decoration: none;
+    background: #9c27b0;
+}
+
+.btn-home {
+    display: flex;
+}
+
+.btn-home a{
+    margin: 0 10px;
+}
+
+.btn:hover {
+    background: none;
+}
+.content {
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
