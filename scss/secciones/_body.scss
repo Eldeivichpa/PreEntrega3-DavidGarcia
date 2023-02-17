@@ -51,7 +51,7 @@ body{
 
 /* formulario de contacto */
 
-.body-contacto{
+.body{
    background: url("../../recursos/img/fondo\ contacto.jpg");
     -webkit-background-size: cover;
     background-size: cover;
@@ -194,8 +194,8 @@ button:hover{
     border: 2px solid #9c27b0;
 }
 
-.armado{
-    background: url("../../recursos/img/armado\ de\ pc\ 3.jpg");
+.body{
+    background: url(../../recursos/img/fondo-armatupc.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
